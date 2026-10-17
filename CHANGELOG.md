@@ -1,5 +1,10 @@
 # MK Weed – Changelog
 
+## 1.0.4 – 2026-10-17
+
+### Fixed
+- No more "Could not make hard link" warning on start: the models note moved out of the stream folder (docs/models.md)
+
 ## 1.0.3 – 2026-10-16
 
 ### Fixed

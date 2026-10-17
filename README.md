@@ -2,7 +2,7 @@
 
 Complete weed growing system: supply shops, seed farms, a travelling seed dealer, a hidden weed buyer, grid planting with server-side growth, status cards, processing tables, joints, levels, private labs with workers and raids, live admin editor (ESX / QBCore / Qbox)
 
-**Latest version:** `1.0.3` · [Changelog](CHANGELOG.md) · [Releases](https://github.com/mkscriptss/mk_weed/releases)
+**Latest version:** `1.0.4` · [Changelog](CHANGELOG.md) · [Releases](https://github.com/mkscriptss/mk_weed/releases)
 
 ## Where to get it
 
